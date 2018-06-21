@@ -42,6 +42,27 @@ _abbrev_exc = [
     {ORTH: "нояб", LEMMA: "ноябрь", NORM: "ноябрь"},
     {ORTH: "нбр", LEMMA: "ноябрь", NORM: "ноябрь"},
     {ORTH: "дек", LEMMA: "декабрь", NORM: "декабрь"},
+
+    # Address abbreviations
+    {ORTH: "респ", LEMMA: "республика", NORM: "республика"},
+    {ORTH: "обл", LEMMA: "область", NORM: "область"},
+    {ORTH: "ур", LEMMA: "урочище", NORM: "урочище"},
+    {ORTH: "дер", LEMMA: "деревня", NORM: "деревня"},
+    {ORTH: "ул", LEMMA: "улица", NORM: "улица"},
+    {ORTH: "пр", LEMMA: "проспект", NORM: "проспект"},
+    {ORTH: "пр-д", LEMMA: "проезд", NORM: "проезд"},
+    {ORTH: "р-н", LEMMA: "район", NORM: "район"},
+    {ORTH: "просп", LEMMA: "проспект", NORM: "проспект"},
+    {ORTH: "пер", LEMMA: "переулок", NORM: "переулок"},
+    {ORTH: "наб", LEMMA: "набережная", NORM: "набережная"},
+    {ORTH: "пл", LEMMA: "площадь", NORM: "площадь"},
+    {ORTH: "ш", LEMMA: "шоссе", NORM: "шоссе"},
+    {ORTH: "корп", LEMMA: "корпус", NORM: "корпус"},
+    {ORTH: "кв", LEMMA: "квартира", NORM: "квартира"},
+    {ORTH: "вкз", LEMMA: "вокзал", NORM: "вокзал"},
+    {ORTH: "свхз", LEMMA: "совхоз", NORM: "совхоз"},
+    {ORTH: "тел", LEMMA: "телефон", NORM: "телефон"},
+    {ORTH: "мкр", LEMMA: "микрорайон", NORM: "микрорайон"},
 ]
 
 
