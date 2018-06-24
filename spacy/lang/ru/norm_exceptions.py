@@ -4,6 +4,8 @@ from __future__ import unicode_literals
 
 _exc = {
     # Slang
+    'ghbd': 'привет',
+    'ghbdtn': 'привет',
     'прив': 'привет',
     'ща': 'сейчас',
     'спс': 'спасибо',
