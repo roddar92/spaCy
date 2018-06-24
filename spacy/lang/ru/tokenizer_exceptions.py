@@ -43,6 +43,9 @@ _abbrev_exc = [
     {ORTH: "нбр", LEMMA: "ноябрь", NORM: "ноябрь"},
     {ORTH: "дек", LEMMA: "декабрь", NORM: "декабрь"},
 
+    # Date abbreviations
+    {ORTH: "гг", LEMMA: "годы", NORM: "годы"},
+
     # Address abbreviations
     {ORTH: "респ", LEMMA: "республика", NORM: "республика"},
     {ORTH: "обл", LEMMA: "область", NORM: "область"},
@@ -84,6 +87,10 @@ _abbrev_exc = [
     {ORTH: "гц", LEMMA: "герц", NORM: "герц"},
     {ORTH: "кгц", LEMMA: "килогерц", NORM: "килогерц"},
     {ORTH: "мгц", LEMMA: "мегагерц", NORM: "мегагерц"},
+    {ORTH: "кдж", LEMMA: "килоджоуль", NORM: "килоджоуль"},
+    {ORTH: "мдж", LEMMA: "мегаджоуль", NORM: "мегаджоуль"},
+    {ORTH: "ккал", LEMMA: "килокалорий", NORM: "килокалорий"},
+    {ORTH: "мкал", LEMMA: "мегакалорий", NORM: "мегакалорий"},
     {ORTH: "мл", LEMMA: "миллилитр", NORM: "миллилитр"},
 
     # Other
@@ -92,6 +99,9 @@ _abbrev_exc = [
     {ORTH: "книжн", LEMMA: "книжный", NORM: "книжный"},
     {ORTH: "сокр", LEMMA: "сокращение", NORM: "сокращение"},
     {ORTH: "гжа", LEMMA: "госпожа", NORM: "госпожа"},
+    {ORTH: "женск", LEMMA: "женский", NORM: "женский"},
+    {ORTH: "мужск", LEMMA: "мужской", NORM: "мужской"},
+    {ORTH: "средн", LEMMA: "средний", NORM: "средний"},
 ]
 
 
